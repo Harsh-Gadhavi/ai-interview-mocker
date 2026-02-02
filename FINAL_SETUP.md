@@ -21,7 +21,7 @@ Your app is **100% ready**. All code is fixed, built, tested, and pushed to GitH
 
 ### Step 1️⃣ Get Your Vercel Token (1 minute)
 
-1. Go to: **https://vercel.com** → Login
+1. Go to: ** → Login
 2. Click your avatar → **Settings**
 3. Click: **Tokens**
 4. Click: **Create** button
@@ -32,7 +32,7 @@ Your app is **100% ready**. All code is fixed, built, tested, and pushed to GitH
 
 ### Step 2️⃣ Add Token to GitHub (1 minute)
 
-1. Go to: **https://github.com/Harsh-Gadhavi/ai-interview-mocker**
+1. Go to: **
 2. Click: **Settings** tab (on repo, not account)
 3. Click: **Secrets and variables** (left sidebar)
 4. Click: **Actions**
@@ -72,12 +72,12 @@ GitHub Actions automatically:
 ### See the build in real-time:
 
 1. **GitHub Actions:**
-   - Go to: `https://github.com/Harsh-Gadhavi/ai-interview-mocker/actions`
+   - Go to: `
    - See live build status
    - Watch each step run
 
 2. **Vercel Dashboard:**
-   - Go to: `https://vercel.com/dashboard`
+   - Go to: `
    - Click: Your project
    - See: Latest deployment
 
@@ -176,11 +176,11 @@ COMPLETION_REPORT.md          ← Full details
 
 | Page | URL |
 |------|-----|
-| **GitHub Repo** | https://github.com/Harsh-Gadhavi/ai-interview-mocker |
-| **GitHub Actions** | https://github.com/Harsh-Gadhavi/ai-interview-mocker/actions |
-| **GitHub Secrets** | https://github.com/Harsh-Gadhavi/ai-interview-mocker/settings/secrets/actions |
-| **Vercel Dashboard** | https://vercel.com/dashboard |
-| **Your Live App** | https://ai-interview-mocker.vercel.app (after first deploy) |
+| **GitHub Repo** |  |
+| **GitHub Actions** |  |
+| **GitHub Secrets** |  |
+| **Vercel Dashboard** |  |
+| **Your Live App** |  (after first deploy) |
 
 ---
 
