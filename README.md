@@ -25,7 +25,7 @@ A cutting-edge web application for practicing interview skills with AI-powered m
 
 ### Prerequisites
 - Node.js 18+ and npm
-- Clerk account (free tier available at https://clerk.com)
+- Clerk account (free tier available)
 
 ### Setup Steps
 
