@@ -110,7 +110,7 @@ If you see an error like "You have reached your limit of 500 users", your Clerk 
 
 Steps to upgrade:
 
-1. Sign in to the Clerk dashboard: https://dashboard.clerk.com
+1. Sign in to the Clerk dashboard: 
 2. Go to **Billing** or **Usage** for your application.
 3. Choose a production plan that supports more users and follow Clerk's upgrade flow.
 4. After upgrading, make sure your `CLERK_SECRET_KEY` remains valid in your environment variables (`.env.local` or Vercel/GitHub secrets).
