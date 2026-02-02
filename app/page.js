@@ -12,7 +12,7 @@ export default function Home() {
           <div className="flex items-center gap-2">
             <Sparkles className="w-6 h-6 text-blue-400" />
             <span className="text-xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
-              AI Interview Mocker
+              Harsh's AI Interview Mocker
             </span>
           </div>
           <div className="flex items-center gap-4">
@@ -45,7 +45,7 @@ export default function Home() {
               </span>
             </h1>
             <p className="text-xl text-slate-300 max-w-2xl mx-auto">
-              Get realistic mock interviews with AI interviewers, real-time feedback, and personalized recommendations to land your dream job.
+              Take realistic AI mock interviews with ease. Complete your entire interview in one smooth session with no hurdles. Get real-time feedback and improve your skills.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-6">
@@ -78,7 +78,7 @@ export default function Home() {
       {/* Features Section */}
       <div id="features" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20">
         <h2 className="text-3xl font-bold text-center mb-16">
-          Why Choose AI Interview Mocker?
+          Why Choose Harsh's AI Interview Mocker?
         </h2>
         <div className="grid md:grid-cols-3 gap-8">
           <div className="p-6 rounded-lg border border-slate-700/50 bg-slate-800/30 backdrop-blur hover:border-blue-500/50 transition">
