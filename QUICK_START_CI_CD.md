@@ -110,7 +110,7 @@ Deploys to Vercel
 ## 📝 Your App URL (After First Deploy)
 
 ```
-https://ai-interview-mocker.vercel.app
+
 ```
 
 ---

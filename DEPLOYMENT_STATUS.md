@@ -100,7 +100,7 @@ Run tests
     ↓
 Deploy to Vercel
     ↓
-✅ Live at: https://ai-interview-mocker.vercel.app
+✅ Live at: 
 ```
 
 ---
@@ -109,7 +109,7 @@ Deploy to Vercel
 
 | Action | Where |
 |--------|-------|
-| GitHub Actions | `https://github.com/Harsh-Gadhavi/ai-interview-mocker/actions` |
+| GitHub Actions | ` |
 | Vercel Dashboard | Vercel account settings |
 | GitHub Secrets | GitHub repo → Settings → Secrets |
 | Your Live App | Will be available after first deployment |
