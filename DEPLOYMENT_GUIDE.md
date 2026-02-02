@@ -2,7 +2,7 @@
 
 ## Step 1: Create GitHub Repository
 
-1. Go to https://github.com/new
+1. Go to 
 2. Click "Create a new repository"
 3. Enter these details:
    - **Repository name**: `ai-interview-mocker`
@@ -20,7 +20,7 @@ After creating the repo, you'll see commands to push. Run these:
 cd "c:\Users\harsh\nextjs React\ai-interview-mocker"
 
 # Add your GitHub remote
-git remote add origin https://github.com/YOUR_USERNAME/ai-interview-mocker.git
+git remote add origin 
 
 # Rename branch to main (optional but recommended)
 git branch -M main
@@ -54,9 +54,9 @@ Follow the prompts:
 
 ### Option B: Deploy via Vercel Dashboard (Easiest)
 
-1. Go to https://vercel.com/new
+1. Go to 
 2. Click "Import Git Repository"
-3. Paste your GitHub repo URL: `https://github.com/YOUR_USERNAME/ai-interview-mocker`
+3. Paste your GitHub repo URL: `
 4. Select repository
 5. Click "Import"
 6. Configure environment variables:
@@ -66,14 +66,14 @@ Follow the prompts:
 
 ### Option C: Deploy to Other Platforms
 
-- **Netlify**: Connect your GitHub repo at https://app.netlify.com/start
-- **Railway**: Go to https://railway.app and create new project
-- **Render**: Go to https://render.com and create new service
+- **Netlify**: Connect your GitHub repo at 
+- **Railway**: Go to  and create new project
+- **Render**: Go to  and create new service
 - **AWS Amplify**: Use AWS Console to connect your repo
 
 ## Step 4: Configure Clerk for Production
 
-1. Go to https://clerk.com/docs/deployment/deployments
+1. Go to 
 2. Update your Clerk settings for production domain
 3. Add your deployed domain to allowed origins
 4. Update environment variables on your hosting platform
@@ -90,7 +90,7 @@ cd "c:\Users\harsh\nextjs React\ai-interview-mocker"
 git status
 
 # Add remote (replace YOUR_USERNAME)
-git remote add origin https://github.com/YOUR_USERNAME/ai-interview-mocker.git
+git remote add origin 
 
 # Push to GitHub
 git push -u origin main
@@ -101,7 +101,7 @@ vercel
 
 ## After Deployment
 
-1. ✅ Your app will be live at: `https://ai-interview-mocker.vercel.app`
+1. ✅ Your app will be live at: `
 2. ✅ GitHub will have your code backed up
 3. ✅ Automatic deployments on git push
 4. ✅ Environment variables secured
@@ -118,7 +118,7 @@ vercel
 **Issue**: Remote already exists
 ```bash
 git remote remove origin
-git remote add origin https://github.com/YOUR_USERNAME/ai-interview-mocker.git
+git remote add origin 
 ```
 
 **Issue**: "fatal: not a git repository"
@@ -150,7 +150,7 @@ NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY = pk_live_xxxxx
 CLERK_SECRET_KEY = sk_live_xxxxx
 ```
 
-Get these from https://dashboard.clerk.com after setting up production instance
+Get these from  after setting up production instance
 
 ## Success Checklist
 

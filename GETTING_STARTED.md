@@ -16,7 +16,7 @@ npm install
 **Expected**: ~5-10 minutes, creates node_modules folder
 
 ### Step 2: Setup Clerk Authentication
-Visit: https://clerk.com
+Visit: 
 
 1. [ ] Click "Sign In"
 2. [ ] Create a free account
@@ -51,14 +51,14 @@ npm run dev
 > next dev
 
   ▲ Next.js 15.5.4
-  - Local:        http://localhost:3000
+  - Local:        local-app
   - Environments: .env.local
 
 ✓ Ready in 1.2s
 ```
 
 ### Step 5: Access Application
-- [ ] Open http://localhost:3000 in browser
+- [ ] Open local-app in browser
 - [ ] Should see landing page
 - [ ] Try "Sign In" button
 - [ ] Create test account
@@ -229,8 +229,8 @@ npm start
 
 ## 📞 Getting Help
 
-1. **Check Clerk Docs**: https://clerk.com/docs
-2. **Check Next.js Docs**: https://nextjs.org/docs
+1. **Check Clerk Docs**: 
+2. **Check Next.js Docs**: 
 3. **Check SETUP.md**: Troubleshooting section
 4. **Check DOCUMENTATION.md**: Component reference
 

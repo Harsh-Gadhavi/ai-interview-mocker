@@ -46,7 +46,7 @@ vercel --prod
 
 You'll see something like:
 ```
-✅ Production: https://ai-interview-mocker.vercel.app
+✅ Production: 
 ```
 
 ---
@@ -54,15 +54,15 @@ You'll see something like:
 ## Step 5: Configure Environment Variables (IMPORTANT!)
 
 ### In Vercel Dashboard:
-1. Go to: **https://vercel.com/dashboard**
+1. Go to: **
 2. Click: **ai-interview-mocker** project
 3. Go to: **Settings** → **Environment Variables**
 4. Add two variables:
 
 | Variable | Value | Where to get it |
 |----------|-------|-----------------|
-| `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` | (your key) | https://clerk.com/dashboard → Settings → API Keys → Copy NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY |
-| `CLERK_SECRET_KEY` | (your key) | https://clerk.com/dashboard → Settings → API Keys → Copy CLERK_SECRET_KEY |
+| `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` | (your key) |  → Settings → API Keys → Copy NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY |
+| `CLERK_SECRET_KEY` | (your key) |  → Settings → API Keys → Copy CLERK_SECRET_KEY |
 
 5. Click: **Save**
 6. Click: **Redeploy** (to apply new environment variables)
@@ -71,7 +71,7 @@ You'll see something like:
 
 ## Step 6: Test Your App
 
-Visit: **https://ai-interview-mocker.vercel.app**
+Visit: **
 
 ✅ Should show: Landing page with "Sign Up" button
 ✅ Click "Sign Up" → Should redirect to Clerk sign-up
@@ -123,7 +123,7 @@ This will link your local project to Vercel.
 - [ ] `vercel login` completed (you logged in)
 - [ ] `vercel --prod` deployment completed (you saw production URL)
 - [ ] Environment variables added in Vercel dashboard
-- [ ] App is live at https://ai-interview-mocker.vercel.app
+- [ ] App is live at 
 - [ ] Can sign up / sign in with Clerk
 - [ ] Can start an interview and see questions
 - [ ] Dashboard loads and shows stats
@@ -132,7 +132,7 @@ This will link your local project to Vercel.
 
 ## 📱 What to Test on Live App
 
-1. **Visit the URL:** https://ai-interview-mocker.vercel.app
+1. **Visit the URL:** 
 2. **Sign Up** with email
 3. **Select a Job Role** (Frontend Developer, Backend Dev, etc.)
 4. **Select Experience Level** (Beginner, Intermediate, etc.)
@@ -155,10 +155,10 @@ This will link your local project to Vercel.
 
 ## 🔗 Useful Links
 
-- **Vercel Dashboard:** https://vercel.com/dashboard
-- **Clerk Dashboard:** https://clerk.com/dashboard
-- **Your App:** https://ai-interview-mocker.vercel.app
-- **GitHub Repo:** https://github.com/Harsh-Gadhavi/ai-interview-mocker
+- **Vercel Dashboard:** 
+- **Clerk Dashboard:** 
+- **Your App:** 
+- **GitHub Repo:** 
 
 ---
 

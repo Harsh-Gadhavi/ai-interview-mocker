@@ -35,7 +35,7 @@ npm run dev
 
 ### 4. Open
 ```
-http://localhost:3000
+local-app
 ```
 
 ## 📱 Pages Overview
@@ -91,7 +91,7 @@ npm -v
 
 ## 🔑 Environment Variables
 
-Get these from https://clerk.com:
+Get these from 
 - `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` - Public key
 - `CLERK_SECRET_KEY` - Secret key
 
@@ -211,11 +211,11 @@ Railway, Render, AWS Amplify all supported
 
 ## 📞 Help Resources
 
-- Clerk Docs: https://clerk.com/docs
-- Next.js Docs: https://nextjs.org/docs
-- Tailwind CSS: https://tailwindcss.com/docs
-- React: https://react.dev
-- Web Speech API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+- Clerk Docs: 
+- Next.js Docs: 
+- Tailwind CSS: 
+- React: 
+- Web Speech API: 
 
 ## ✅ Pre-Launch Checklist
 

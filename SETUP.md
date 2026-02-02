@@ -10,7 +10,7 @@ npm install
 ```
 
 ### Step 2: Get Clerk API Keys
-1. Visit https://clerk.com and sign up (free)
+1. Visit  and sign up (free)
 2. Create a new application
 3. Go to API Keys in the dashboard
 4. Copy your keys
@@ -32,7 +32,7 @@ NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/dashboard
 npm run dev
 ```
 
-Visit http://localhost:3000 and start using the app!
+Visit local-app and start using the app!
 
 ## 📋 Project Features
 
@@ -170,10 +170,10 @@ vercel
 
 ## 📚 Resources
 
-- Next.js Docs: https://nextjs.org/docs
-- Clerk Docs: https://clerk.com/docs
-- Tailwind CSS: https://tailwindcss.com/docs
-- React: https://react.dev
+- Next.js Docs: 
+- Clerk Docs: 
+- Tailwind CSS: 
+- React: 
 
 ## 🎓 Next Steps
 

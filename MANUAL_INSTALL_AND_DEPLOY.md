@@ -98,7 +98,7 @@ vercel --prod
 
 **Expected output (after 3-5 minutes):**
 ```
-✓ Production: https://ai-interview-mocker.vercel.app [v3]
+✓ Production:  [v3]
 ```
 
 **Copy that URL!** It's your live app.
@@ -109,7 +109,7 @@ vercel --prod
 
 ### In Vercel Dashboard:
 
-1. Visit: **https://vercel.com/dashboard**
+1. Visit: **
 2. Click: **ai-interview-mocker** project
 3. Click: **Settings** (top menu)
 4. Click: **Environment Variables** (left sidebar)
@@ -134,7 +134,7 @@ vercel --prod
 
 ## 📋 Where to Get Clerk Keys
 
-1. Visit: **https://clerk.com/dashboard**
+1. Visit: **
 2. Click: **API Keys** (or similar) in Settings
 3. Copy **Publishable Key** → Paste in Vercel for `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`
 4. Copy **Secret Key** → Paste in Vercel for `CLERK_SECRET_KEY`
@@ -153,7 +153,7 @@ Back in Vercel dashboard:
 
 ## 🧪 STEP 8: Test Your App
 
-Visit: **https://ai-interview-mocker.vercel.app**
+Visit: **
 
 Verify these work:
 - [ ] Landing page loads
@@ -171,7 +171,7 @@ Verify these work:
 
 Your app is now **LIVE** at:
 ```
-https://ai-interview-mocker.vercel.app
+
 ```
 
 **Success indicators:**

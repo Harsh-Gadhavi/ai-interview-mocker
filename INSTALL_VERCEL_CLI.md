@@ -132,7 +132,7 @@ vercel --prod
 
 You'll see:
 ```
-✓ Production: https://ai-interview-mocker.vercel.app [v3]
+✓ Production:  [v3]
 ```
 
 **That's your live URL!** 🎉
@@ -143,7 +143,7 @@ You'll see:
 
 ### Get Your Clerk Keys
 
-1. Visit: **https://clerk.com/dashboard**
+1. Visit: **
 2. Click: **Settings** (left sidebar)
 3. Click: **API Keys**
 4. Copy: **Publishable Key** (save it)
@@ -151,7 +151,7 @@ You'll see:
 
 ### Add to Vercel
 
-1. Visit: **https://vercel.com/dashboard**
+1. Visit: **
 2. Find: **ai-interview-mocker** project
 3. Click: **Settings** (top menu)
 4. Click: **Environment Variables** (left sidebar)
@@ -178,7 +178,7 @@ You'll see:
 
 ## ✅ TEST YOUR APP
 
-Visit: **https://ai-interview-mocker.vercel.app**
+Visit: **
 
 Check these work:
 - [ ] Landing page loads with dark theme
@@ -198,7 +198,7 @@ Check these work:
 If all above work, your app is **LIVE** at:
 
 ```
-https://ai-interview-mocker.vercel.app
+
 ```
 
 ---

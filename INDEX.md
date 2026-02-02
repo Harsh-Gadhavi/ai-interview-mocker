@@ -90,13 +90,13 @@ Welcome to **AI Interview Mocker** - a complete, production-ready application fo
 # 1. Install dependencies
 npm install
 
-# 2. Setup Clerk (get keys from https://clerk.com)
+# 2. Setup Clerk (get keys from 
 # Create .env.local with your Clerk keys
 
 # 3. Run development server
 npm run dev
 
-# 4. Open http://localhost:3000
+# 4. Open local-app
 ```
 
 ---
@@ -178,7 +178,7 @@ ai-interview-mocker/
 2. Install: `npm install`
 3. Configure: Create `.env.local`
 4. Run: `npm run dev`
-5. Test: Go to http://localhost:3000
+5. Test: Go to local-app
 
 ### Making Changes
 - Components: `app/` and `components/`
@@ -272,11 +272,11 @@ See [README.md](README.md#-deployment) for details.
 - Full Docs: [DOCUMENTATION.md](DOCUMENTATION.md)
 
 ### External Resources
-- Clerk: https://clerk.com/docs
-- Next.js: https://nextjs.org/docs
-- React: https://react.dev
-- Tailwind CSS: https://tailwindcss.com
-- Web Speech API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+- Clerk: 
+- Next.js: 
+- React: 
+- Tailwind CSS: 
+- Web Speech API: 
 
 ---
 

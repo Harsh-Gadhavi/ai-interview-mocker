@@ -86,7 +86,7 @@ Your AI Interview Mocker project is now fully implemented and ready to use!
    npm install
    ```
 
-2. **Get Clerk API keys** from https://clerk.com
+2. **Get Clerk API keys** from 
 
 3. **Configure `.env.local`**
    ```
@@ -103,7 +103,7 @@ Your AI Interview Mocker project is now fully implemented and ready to use!
    npm run dev
    ```
 
-5. **Open http://localhost:3000**
+5. **Open local-app**
 
 ## 🎯 User Flow
 
@@ -251,11 +251,11 @@ Before going live, test:
 
 ## 📞 Support Resources
 
-- **Clerk Docs**: https://clerk.com/docs
-- **Next.js Docs**: https://nextjs.org/docs
-- **Tailwind CSS**: https://tailwindcss.com/docs
-- **React Docs**: https://react.dev
-- **Web Speech API**: https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API
+- **Clerk Docs**: 
+- **Next.js Docs**: 
+- **Tailwind CSS**: 
+- **React Docs**: 
+- **Web Speech API**: 
 
 ## 🎉 You're All Set!
 

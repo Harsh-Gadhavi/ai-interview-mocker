@@ -96,8 +96,8 @@ vercel --prod
 
 ### Option A: Web Dashboard (Easiest)
 
-1. Go to: https://vercel.com/new/git/import
-2. Enter repo URL: `https://github.com/Harsh-Gadhavi/ai-interview-mocker`
+1. Go to: 
+2. Enter repo URL: `
 3. Click "Import"
 4. Add environment variables:
    - `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` = your key
@@ -118,7 +118,7 @@ vercel --prod
 
 After deployment, add Clerk keys:
 
-1. Go to: https://vercel.com/dashboard
+1. Go to: 
 2. Click your project: `ai-interview-mocker`
 3. Go to: Settings → Environment Variables
 4. Add these variables:
@@ -179,7 +179,7 @@ vercel --prod
 
 After `vercel --prod` completes:
 
-1. You'll see a URL like: `https://ai-interview-mocker.vercel.app`
+1. You'll see a URL like: `
 2. Click the URL or open in browser
 3. You should see the landing page
 4. Test the sign-in flow
@@ -235,7 +235,7 @@ Get-Item package.json
 
 ### Your app is live at:
 ```
-https://ai-interview-mocker.vercel.app
+
 ```
 
 ### Next steps:
@@ -248,10 +248,10 @@ https://ai-interview-mocker.vercel.app
 
 ## 🔗 Useful Links
 
-- **Vercel Dashboard:** https://vercel.com/dashboard
-- **Your Project:** https://vercel.com/dashboard/ai-interview-mocker
-- **GitHub Repo:** https://github.com/Harsh-Gadhavi/ai-interview-mocker
-- **Your App:** https://ai-interview-mocker.vercel.app
+- **Vercel Dashboard:** 
+- **Your Project:** 
+- **GitHub Repo:** 
+- **Your App:** 
 
 ---
 
@@ -261,8 +261,8 @@ https://ai-interview-mocker.vercel.app
 
 1. Check the error message carefully
 2. Look in "🐛 Troubleshooting" section above
-3. Check Vercel logs: https://vercel.com/dashboard/projects
-4. Read Vercel docs: https://vercel.com/docs
+3. Check Vercel logs: 
+4. Read Vercel docs: 
 
 ---
 

@@ -106,7 +106,7 @@ git push origin feature-branch
 
 ### Add Clerk Environment Variables to Vercel
 
-1. Go: https://vercel.com/dashboard
+1. Go: 
 2. Click: Your project
 3. Settings → Environment Variables
 4. Add:

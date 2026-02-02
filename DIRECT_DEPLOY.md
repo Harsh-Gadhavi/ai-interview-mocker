@@ -19,11 +19,11 @@ When prompted:
 
 ## After Deployment:
 
-1. Go to: https://vercel.com/dashboard
+1. Go to: 
 2. Click: ai-interview-mocker project → Settings → Environment Variables
-3. Add your Clerk keys (from https://clerk.com/dashboard)
+3. Add your Clerk keys (from 
    - `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`
    - `CLERK_SECRET_KEY`
 4. Click Redeploy
 
-**Your app will be live at: https://ai-interview-mocker.vercel.app**
+**Your app will be live at: 

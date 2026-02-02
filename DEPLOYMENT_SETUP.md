@@ -74,7 +74,7 @@ vercel --prod
 The error you got:
 ```
 [rejected] main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/Harsh-Gadhavi/ai-interview-mocker.git'
+error: failed to push some refs to '
 ```
 
 **What it means:**
@@ -150,14 +150,14 @@ vercel --prod
 
 Your app will be live at:
 ```
-https://ai-interview-mocker.vercel.app
+
 ```
 
 (Or a custom domain if you set one up)
 
 ### Add Environment Variables
 
-1. Go to https://vercel.com/dashboard
+1. Go to 
 2. Click on your project
 3. Go to Settings → Environment Variables
 4. Add these:
@@ -170,7 +170,7 @@ https://ai-interview-mocker.vercel.app
 ## 🐛 Troubleshooting
 
 ### Problem: "git: command not found"
-**Solution:** Install Git from https://git-scm.com
+**Solution:** Install Git from 
 
 ### Problem: "fatal: not a git repository"
 **Solution:** Make sure you're in the right directory:
@@ -218,7 +218,7 @@ After following these steps, you should have:
 
 Test your deployment:
 
-1. Go to https://ai-interview-mocker.vercel.app (or your URL)
+1. Go to  (or your URL)
 2. You should see the landing page
 3. Click "Sign In"
 4. Test the interview flow
@@ -241,8 +241,8 @@ If everything works → **You're done! 🚀**
 ## 📞 Need Help?
 
 - Git issues? → Read GIT_FIX.md
-- Vercel issues? → Go to https://vercel.com/docs
-- Clerk issues? → Go to https://clerk.com/docs
+- Vercel issues? → Go to 
+- Clerk issues? → Go to 
 - General help? → Check DOCUMENTATION.md
 
 ---

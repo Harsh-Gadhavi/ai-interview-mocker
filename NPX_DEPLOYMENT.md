@@ -35,7 +35,7 @@ When prompted:
 
 You'll see:
 ```
-✓ Production: https://ai-interview-mocker.vercel.app
+✓ Production: 
 ```
 
 ---
@@ -72,8 +72,8 @@ npx -y vercel --prod
 
 ## After Deployment
 
-1. **Get your Clerk keys** from: https://clerk.com/dashboard
-2. **Add to Vercel**: https://vercel.com/dashboard → ai-interview-mocker → Settings → Environment Variables
+1. **Get your Clerk keys** from: 
+2. **Add to Vercel**:  → ai-interview-mocker → Settings → Environment Variables
 3. **Add variables:**
    - `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` = your key
    - `CLERK_SECRET_KEY` = your key
@@ -83,6 +83,6 @@ npx -y vercel --prod
 
 ## Test
 
-Visit: https://ai-interview-mocker.vercel.app
+Visit: 
 
 Done! 🎉

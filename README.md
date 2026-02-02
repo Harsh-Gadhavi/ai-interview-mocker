@@ -35,7 +35,7 @@ A cutting-edge web application for practicing interview skills with AI-powered m
    ```
 
 2. **Setup Clerk Authentication**
-   - Go to https://clerk.com and create a free account
+   - Go to  and create a free account
    - Create a new application
    - Get your `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` and `CLERK_SECRET_KEY`
 
@@ -55,7 +55,7 @@ A cutting-edge web application for practicing interview skills with AI-powered m
    ```
 
 5. **Open in Browser**
-   - Navigate to http://localhost:3000
+   - Navigate to local-app
    - Sign up or sign in
    - Start your first mock interview!
 
@@ -99,7 +99,7 @@ npm start
 
 ## 🔐 Authentication with Clerk
 
-- Free tier available at https://clerk.com
+- Free tier available at 
 - Supports email, Google, GitHub, and more
 - Secure session management
 - Protected routes for authenticated users
