@@ -195,7 +195,7 @@
 ✅ Project: ai-interview-mocker
 ✅ Build: Optimized
 ✅ Deploy: Ready
-✅ URL: https://ai-interview-mocker.vercel.app
+✅ URL: 
 ```
 
 ---
@@ -355,7 +355,7 @@ Production Readiness:   ✅ GO LIVE
 
 4. **Visit Your Live App** (instant)
    ```
-   https://ai-interview-mocker.vercel.app
+   
    ```
 
 5. **Share with Users!** (0 min)

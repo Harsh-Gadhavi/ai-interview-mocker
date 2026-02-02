@@ -10,7 +10,7 @@ Your AI Interview Mocker is now fully functional and optimized for a seamless in
 
 ### Step 1: Sign In
 ```
-User visits: https://ai-interview-mocker.vercel.app
+User visits: 
 ↓
 See landing page
 ↓
