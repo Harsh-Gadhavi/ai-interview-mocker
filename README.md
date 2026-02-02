@@ -104,6 +104,20 @@ npm start
 - Secure session management
 - Protected routes for authenticated users
 
+### Clerk plan limits and upgrade
+
+If you see an error like "You have reached your limit of 500 users", your Clerk application is on a limited tier.
+
+Steps to upgrade:
+
+1. Sign in to the Clerk dashboard: https://dashboard.clerk.com
+2. Go to **Billing** or **Usage** for your application.
+3. Choose a production plan that supports more users and follow Clerk's upgrade flow.
+4. After upgrading, make sure your `CLERK_SECRET_KEY` remains valid in your environment variables (`.env.local` or Vercel/GitHub secrets).
+
+The app includes a small banner that checks Clerk API status and will show an upgrade link and retry button if the limit is reached.
+
+
 ## 📄 License
 
 MIT License - Feel free to use this project for personal or commercial purposes.
