@@ -126,13 +126,13 @@ Done! ✅
 Organization: Harsh-Gadhavi
 Repository: ai-interview-mocker
 Branch: main
-URL: https://github.com/Harsh-Gadhavi/ai-interview-mocker
+URL: 
 ```
 
 ### Vercel Deployment
 ```
 Status: Ready to deploy
-URL: https://ai-interview-mocker.vercel.app
+URL: 
 Auto-deploy: Configured
 Environment: Production-ready
 ```
@@ -151,12 +151,12 @@ Environment: Production-ready
 ### To Deploy Live:
 
 1. **Get Your Vercel Token** (1 min)
-   - Go to: https://vercel.com/account/tokens
+   - Go to: 
    - Create new token
    - Copy it
 
 2. **Add to GitHub** (1 min)
-   - Go to repo: https://github.com/Harsh-Gadhavi/ai-interview-mocker
+   - Go to repo: 
    - Settings → Secrets and variables → Actions
    - Click "New repository secret"
    - Name: `VERCEL_TOKEN`
@@ -174,7 +174,7 @@ Environment: Production-ready
 
 ### Verify It Works
 ```
-Visit: https://ai-interview-mocker.vercel.app
+Visit: 
 Sign up with test account
 Start a mock interview
 Complete the full flow
