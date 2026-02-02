@@ -39,8 +39,8 @@ Users can:
 
 | Item | URL |
 |------|-----|
-| **GitHub Repo** | https://github.com/Harsh-Gadhavi/ai-interview-mocker |
-| **Live App** | https://ai-interview-mocker.vercel.app |
+| **GitHub Repo** |  |
+| **Live App** |  |
 | **Current Branch** | main |
 
 ---
@@ -49,14 +49,14 @@ Users can:
 
 ### Step 1: Get Vercel Token
 ```
-Go: https://vercel.com/account/tokens
+Go: 
 Click: Create new token
 Copy: Your token
 ```
 
 ### Step 2: Add to GitHub
 ```
-Go: https://github.com/Harsh-Gadhavi/ai-interview-mocker
+Go: 
 Settings → Secrets and variables → Actions
 New repository secret
 Name: VERCEL_TOKEN
