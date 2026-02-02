@@ -117,6 +117,26 @@ Steps to upgrade:
 
 The app includes a small banner that checks Clerk API status and will show an upgrade link and retry button if the limit is reached.
 
+### App Router: `proxy.ts` (recommended)
+
+To follow Clerk's current App Router quickstart, create a `proxy.ts` at the project root (or in `src/` if you have one) that uses `clerkMiddleware()` and a matcher. Example (no keys shown here):
+
+```typescript
+// proxy.ts
+import { clerkMiddleware } from "@clerk/nextjs/server";
+
+export default clerkMiddleware();
+
+export const config = {
+   matcher: [
+      "/((?!_next|[^?]*\.(?:html?|css|js|png|jpg|svg)).*)",
+      "(api|trpc)(.*)",
+   ],
+};
+```
+
+Keep keys in `.env.local` only (see `.env.example`). Do not commit real keys to the repository.
+
 
 ## 📄 License
 
