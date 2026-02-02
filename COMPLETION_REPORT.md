@@ -85,7 +85,7 @@ GitHub Actions Triggered
    ↓
 Deploy to Vercel
    ↓
-✅ Live at: https://ai-interview-mocker.vercel.app
+✅ Live at: 
 ```
 
 ---
